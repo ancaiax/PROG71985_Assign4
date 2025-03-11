@@ -1,0 +1,5 @@
+﻿  rooms.c
+  source.c
+  Generating Code...
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign4(Edit)\Assignment 4\Question 2\rooms.c(188,2): warning C4013: 'printArrayOfGuests' undefined; assuming extern returning int
+  Question 2.vcxproj -> C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\PROG71985_Assign4(Edit)\Assignment 4\x64\Debug\Question 2.exe

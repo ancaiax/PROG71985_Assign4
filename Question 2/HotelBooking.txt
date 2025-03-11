@@ -1,0 +1,60 @@
+ROOM
+Room Number: 1
+Book Status: O
+placeholder
+placeholder
+
+ROOM
+Room Number: 2
+Book Status: X
+Xavier
+Avery
+
+ROOM
+Room Number: 3
+Book Status: O
+placeholder
+placeholder
+
+ROOM
+Room Number: 4
+Book Status: O
+placeholder
+placeholder
+
+ROOM
+Room Number: 5
+Book Status: O
+placeholder
+placeholder
+
+ROOM
+Room Number: 6
+Book Status: O
+placeholder
+placeholder
+
+ROOM
+Room Number: 7
+Book Status: O
+placeholder
+placeholder
+
+ROOM
+Room Number: 8
+Book Status: O
+placeholder
+placeholder
+
+ROOM
+Room Number: 9
+Book Status: O
+placeholder
+placeholder
+
+ROOM
+Room Number: 10
+Book Status: O
+placeholder
+placeholder
+
